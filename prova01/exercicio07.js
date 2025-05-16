@@ -1,6 +1,6 @@
 let pedido = 3;
 let nomeCombo = "";
-let perco = 0;
+let preco = 0;
 
 switch(pedido) {
     case 1:
